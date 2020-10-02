@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KM8XuKMcr0yd9z9Wngi6sAqxRMtTw/aMhHUTtaPz7Wgg37GpgzOY0N2Zu4ZWqbvvSdf2Jg/7vo+WNnpcn2PIQ==",
+  "success": true,
+  "projectFilePath": "/Users/paulocoelho/Documents/GitHub/HackerNews/src/HackerNewsAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/paulocoelho/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
