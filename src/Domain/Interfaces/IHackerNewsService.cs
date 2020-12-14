@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Domain.Models;
 
-namespace Domain.Services
+namespace Domain.Interfaces
 {
     public interface IHackerNewsService
     {

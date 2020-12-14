@@ -5983,11 +5983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/paulocoelho/Documents/Development/Santander/HackerNews/test/HackerNewsTests.csproj",
+      "projectUniqueName": "/Users/paulocoelho/Documents/GitHub/HackerNews/test/HackerNewsTests.csproj",
       "projectName": "HackerNewsTests",
-      "projectPath": "/Users/paulocoelho/Documents/Development/Santander/HackerNews/test/HackerNewsTests.csproj",
+      "projectPath": "/Users/paulocoelho/Documents/GitHub/HackerNews/test/HackerNewsTests.csproj",
       "packagesPath": "/Users/paulocoelho/.nuget/packages/",
-      "outputPath": "/Users/paulocoelho/Documents/Development/Santander/HackerNews/test/obj/",
+      "outputPath": "/Users/paulocoelho/Documents/GitHub/HackerNews/test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/paulocoelho/.nuget/NuGet/NuGet.Config"
@@ -6001,8 +6001,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/paulocoelho/Documents/Development/Santander/HackerNews/src/HackerNewsAPI.csproj": {
-              "projectPath": "/Users/paulocoelho/Documents/Development/Santander/HackerNews/src/HackerNewsAPI.csproj"
+            "/Users/paulocoelho/Documents/GitHub/HackerNews/src/HackerNewsAPI.csproj": {
+              "projectPath": "/Users/paulocoelho/Documents/GitHub/HackerNews/src/HackerNewsAPI.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Af9mM/iTwH/DgExkyxXY1W5HSCDbffqXwJNRw7MwWCShltePMdLeLZMpQdrDS3dlW7hlBd0rSaHkOxQXR5DBWQ==",
+  "dgSpecHash": "/uMGh7REUFiCOaRDvvYoAU6qUcXGdaHu6JczXyIz2aUl6A4GkFm5vjzz/ZM8UVs/8FwIUVbsW1/iXsG5gBs6dg==",
   "success": true,
-  "projectFilePath": "/Users/paulocoelho/Documents/Development/Santander/HackerNews/test/HackerNewsTests.csproj",
+  "projectFilePath": "/Users/paulocoelho/Documents/GitHub/HackerNews/test/HackerNewsTests.csproj",
   "expectedPackageFiles": [
     "/Users/paulocoelho/.nuget/packages/castle.core/4.3.1/castle.core.4.3.1.nupkg.sha512",
     "/Users/paulocoelho/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",

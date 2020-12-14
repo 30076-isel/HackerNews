@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 using Controllers;
-using Domain.Services;
+using Domain.Interfaces;
 using FakeItEasy;
 using Xunit;
 

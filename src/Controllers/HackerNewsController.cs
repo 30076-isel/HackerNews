@@ -1,6 +1,6 @@
 using System;
 using System.Threading.Tasks;
-using Domain.Services;
+using Domain.Interfaces;
 using HackerNewsAPI.Domain.Exceptions;
 using Microsoft.AspNetCore.Mvc;
 

@@ -1,10 +1,9 @@
-using Domain.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Services;
+using src.Dependencies;
 
 namespace HackerNewsAPI
 {
@@ -21,8 +20,8 @@ namespace HackerNewsAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-
-            services.AddScoped<IHackerNewsService, HackerNewsService>();
+            services.AddHttpClient();
+            services.AddServiceDependency();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
